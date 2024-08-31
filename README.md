@@ -18,7 +18,7 @@ https://python-visualization.github.io/folium/latest/
 
 Changelog
 Release notes of v0.16.0 and higher: https://github.com/python-visualization/folium/releases
-Older changelog
+Older changelogds
 Packages and plugins
 Packages:
 
